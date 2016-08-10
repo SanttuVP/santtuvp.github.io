@@ -10,14 +10,14 @@ url: "" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email:
+email: p.santtuvp@gmail.com
 facebook_username:
-twitter_username:
-github_username:
+twitter_username: "@santtuvp"
+github_username: santtuvp
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
 
@@ -26,3 +26,6 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+
+#Plugins
+gems:
