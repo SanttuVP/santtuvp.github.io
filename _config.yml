@@ -29,3 +29,6 @@ markdown: kramdown
 
 #Plugins
 gems:
+
+# Google services
+google_analytics: UA-82392403-1
