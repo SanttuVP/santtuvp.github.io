@@ -1,7 +1,7 @@
 # Site settings
 title:
 email:
-description: > Santtu Pyykkönen, Geospatial IT expert - Online portfolio.
+description: Santtu Pyykkönen, Geospatial IT expert - Online portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
