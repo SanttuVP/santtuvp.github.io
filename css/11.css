@@ -4,12 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
- html, body, #container /*, and all other map parent selectors*/ {
-   height: 100%;
-   overflow: hidden;
-   width: 100%;
+ body {
+     padding: 0;
+     margin: 0;
  }
- #map {
-   width: auto;
-   height: 100%;
+ html, body, #map {
+     height: 100vh;
+     width: 100vw;
  }
